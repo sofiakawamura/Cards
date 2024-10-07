@@ -1,0 +1,170 @@
+[
+    {
+        "nome": "Grabalos",
+        "ra": "22131",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/1135/1135602.png",
+        "horarios": {
+            "segunda": [
+                {"horario": "7:30"},
+                {"horario": "8:15"},
+                {"horario": "9:00"},
+                {"horario": "10:00"},
+                {"horario": "10:45"},
+                {"horario": "11:30"}
+            ],
+            "terca": [
+                {"horario": "7:30"},
+                {"horario": "8:15"},
+                {"horario": "9:00"}
+            ],
+            "quarta": [
+                {"horario": "7:30"},
+                {"horario": "18:15"},
+                {"horario": "19:00"},
+                {"horario": "19:45"},
+                {"horario": "20:00"}
+            ],
+            "quinta": [],
+            "sexta": [
+                {"horario": "7:30"},
+                {"horario": "8:15"}
+            ],
+            "sabado": []
+        }
+    },
+    {
+        "nome": "Ricardo",
+        "ra": "24483",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/350/350413.png",
+        "horarios": {
+            "segunda": [],
+            "terca": [
+                {"horario": "19:00"}
+            ],
+            "quarta": [
+                {"horario": "20:30"},
+                {"horario": "21:30"},
+                {"horario": "22:15"}
+            ],
+            "quinta": [
+                {"horario": "15:00"},
+                {"horario": "16:00"},
+                {"horario": "21:30"},
+                {"horario": "22:15"}
+            ],
+            "sexta": [
+                {"horario": "14:15"},
+                {"horario": "15:00"},
+                {"horario": "16:00"},
+                {"horario": "20:30"},
+                {"horario": "21:30"},
+                {"horario": "22:15"}
+            ],
+            "sabado": [
+                {"horario": "7:30"},
+                {"horario": "8:15"}
+            ]
+        }
+    },
+    {
+        "nome": "Beatriz",
+        "ra": "22121",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/740/740922.png",
+        "horarios": {
+            "segunda": [
+                {"horario": "7:30"},
+                {"horario": "8:15"},
+                {"horario": "9:00"},
+                {"horario": "10:00"},
+                {"horario": "10:45"},
+                {"horario": "11:30"},
+                {"horario": "12:15"}
+            ],
+            "terca": [
+                {"horario": "7:30"},
+                {"horario": "8:15"},
+                {"horario": "9:00"}
+            ],
+            "quarta": [
+                {"horario": "7:30"},
+                {"horario": "17:30"}
+            ],
+            "quinta": [],
+            "sexta": [
+                {"horario": "7:30"},
+                {"horario": "8:15"},
+                {"horario": "12:15"},
+                {"horario": "13:30"}
+            ],
+            "sabado": []
+        }
+    },
+    {
+        "nome": "Marcos",
+        "ra": "22142",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/765/765560.png",
+        "horarios": {
+            "segunda": [
+                {"horario": "8:15"},
+                {"horario": "9:00"},
+                {"horario": "10:00"},
+                {"horario": "10:45"},
+                {"horario": "11:30"},
+                {"horario": "18:15"}
+            ],
+            "terca": [
+                {"horario": "8:15"},
+                {"horario": "9:00"},
+                {"horario": "18:15"}
+            ],
+            "quarta": [
+                {"horario": "17:30"},
+                {"horario": "18:15"}
+            ],
+            "quinta": [],
+            "sexta": [
+                {"horario": "8:15"},
+                {"horario": "13:30"}
+            ],
+            "sabado": [
+                {"horario": "10:00"},
+                {"horario": "10:45"},
+                {"horario": "11:30"}
+            ]
+        }
+    },
+    {
+        "nome": "Anna",
+        "ra": "23306",
+        "imagem": "https://cdn-icons-png.flaticon.com/512/7315/7315465.png",
+        "horarios": {
+            "segunda": [
+                {"horario": "13:30"}
+            ],
+            "terca": [
+                {"horario": "8:15"},
+                {"horario": "9:00"},
+                {"horario": "10:00"},
+                {"horario": "10:45"},
+                {"horario": "11:30"},
+                {"horario": "13:30"}
+            ],
+            "quarta": [
+                {"horario": "8:15"},
+                {"horario": "9:00"},
+                {"horario": "10:00"},
+                {"horario": "10:45"},
+                {"horario": "11:30"},
+                {"horario": "13:30"},
+                {"horario": "16:45"}
+            ],
+            "quinta": [
+                {"horario": "13:30"}
+            ],
+            "sexta": [
+                {"horario": "16:45"}
+            ],
+            "sabado": []
+        }
+    }
+]
